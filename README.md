@@ -4,9 +4,9 @@
 A responsive landing page for **Chatter**, a blogging platform for readers and writers. This project is a pixel-faithful conversion of a Figma design into semantic HTML and modern CSS.
 
 🎨 **Figma design:** [View the design on Figma](https://www.figma.com/design/TXzuoMAwGEIfWcAq0HbBNY/purposed?node-id=48-37&t=56gQ5pYZ4wonbGXz-0)
-🌐 **Live site:** [View the live site](PASTE-YOUR-LIVE-LINK-HERE)
+🌐 **Live site:** [View the live site](https://chatterwebsite.vercel.app/)
 
-![Chatter preview](./assets/images/preview.png)
+![Chatter preview](./assets/images/chatter-preview.png)
 
 ## Table of Contents
 
